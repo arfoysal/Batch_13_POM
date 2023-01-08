@@ -1,0 +1,96 @@
+{
+  "uid" : "ddae40c28ad4e485",
+  "name" : "TestHelpCenterPageTitle",
+  "fullName" : "testclasses.HelpCenterTest.TestHelpCenterPageTitle",
+  "historyId" : "ac3a84e845517518fa956a90c0f574e1",
+  "time" : {
+    "start" : 1673016375887,
+    "stop" : 1673016385746,
+    "duration" : 9859
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1673016371627,
+      "stop" : 1673016375788,
+      "duration" : 4161
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1673016385755,
+      "stop" : 1673016386467,
+      "duration" : 712
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.HelpCenterTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.HelpCenterTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestHelpCenterPageTitle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.HelpCenterTest"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "1956@arfoysal.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddae40c28ad4e485.json",
+  "parameterValues" : [ ]
+}

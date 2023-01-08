@@ -1,0 +1,553 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "arfoysal",
+    "children" : [ {
+      "name" : "4908@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginTestwithInvalidCredential",
+        "uid" : "67b180970afe27f7",
+        "parentUid" : "288c5a01e9611635a567b1001273b6f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673021740935,
+          "stop" : 1673021750094,
+          "duration" : 9159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "288c5a01e9611635a567b1001273b6f0"
+    }, {
+      "name" : "1956@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "TestHelpCenterPageTitle",
+        "uid" : "ddae40c28ad4e485",
+        "parentUid" : "31689ec590fc0aa3404a0a0a6650f04b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673016375887,
+          "stop" : 1673016385746,
+          "duration" : 9859
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginPageTitle",
+        "uid" : "64acb9a5a83da36a",
+        "parentUid" : "31689ec590fc0aa3404a0a0a6650f04b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673016387788,
+          "stop" : 1673016396507,
+          "duration" : 8719
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31689ec590fc0aa3404a0a0a6650f04b"
+    }, {
+      "name" : "1540@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginTestwithInvalidCredential",
+        "uid" : "2ec4379cda0ea7af",
+        "parentUid" : "fb0d3f987e212f440df1f56b2a78ca21",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673022362452,
+          "stop" : 1673022370883,
+          "duration" : 8431
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0178999955", "155555", "Please enter a valid phone number." ]
+      }, {
+        "name" : "loginTestwithInvalidCredential",
+        "uid" : "95b8055cf588a8c8",
+        "parentUid" : "fb0d3f987e212f440df1f56b2a78ca21",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673022351417,
+          "stop" : 1673022360331,
+          "duration" : 8914
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0118999955", "155555", "Please enter a valid phone number." ]
+      } ],
+      "uid" : "fb0d3f987e212f440df1f56b2a78ca21"
+    }, {
+      "name" : "6916@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginPageTitle",
+        "uid" : "14f4358a9fcee165",
+        "parentUid" : "88202ad4f8a550e490ac5fe003b6e8c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673018526504,
+          "stop" : 1673018534891,
+          "duration" : 8387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88202ad4f8a550e490ac5fe003b6e8c6"
+    }, {
+      "name" : "14664@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginTestwithInvalidCredential",
+        "uid" : "ff3e295316b9c852",
+        "parentUid" : "13b9bbc6544243ac09369dc88742e1d2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673021579044,
+          "stop" : 1673021587201,
+          "duration" : 8157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "13b9bbc6544243ac09369dc88742e1d2"
+    }, {
+      "name" : "15960@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginPageTitle",
+        "uid" : "f001c3e86f7d6dba",
+        "parentUid" : "c76bb121ab8c527adf5d02eb25037cae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673018468983,
+          "stop" : 1673018476981,
+          "duration" : 7998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestHelpCenterPageTitle",
+        "uid" : "389b02dcc70936f",
+        "parentUid" : "c76bb121ab8c527adf5d02eb25037cae",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673018438412,
+          "stop" : 1673018466842,
+          "duration" : 28430
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c76bb121ab8c527adf5d02eb25037cae"
+    }, {
+      "name" : "17932@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginTestwithInvalidCredential",
+        "uid" : "96ff1f2d1b98b918",
+        "parentUid" : "6a2d0d9e5c61d7d46e191cb0aef8b814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673022427427,
+          "stop" : 1673022435859,
+          "duration" : 8432
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0118999955", "155555", "Please enter a valid phone number." ]
+      }, {
+        "name" : "loginTestwithInvalidCredential",
+        "uid" : "88a5afc4ed50b421",
+        "parentUid" : "6a2d0d9e5c61d7d46e191cb0aef8b814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673022437893,
+          "stop" : 1673022446770,
+          "duration" : 8877
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0178999955", "155555", "Please enter a valid phone number." ]
+      } ],
+      "uid" : "6a2d0d9e5c61d7d46e191cb0aef8b814"
+    }, {
+      "name" : "17776@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginTestwithInvalidCredential",
+        "uid" : "456e693ca9d022e8",
+        "parentUid" : "821be5e283b787401a5f60fbfa1ae002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673022520836,
+          "stop" : 1673022530360,
+          "duration" : 9524
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0178999955", "155555", "Please enter a valid phone number." ]
+      }, {
+        "name" : "loginTestwithInvalidCredential",
+        "uid" : "1f02b323ee3fd48c",
+        "parentUid" : "821be5e283b787401a5f60fbfa1ae002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673022509893,
+          "stop" : 1673022518730,
+          "duration" : 8837
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0118999955", "155555", "Please enter a valid phone number." ]
+      }, {
+        "name" : "Testing help center page title",
+        "uid" : "e7e79d4e13dfe195",
+        "parentUid" : "821be5e283b787401a5f60fbfa1ae002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673022532394,
+          "stop" : 1673022542386,
+          "duration" : 9992
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginPageTitle",
+        "uid" : "3a3f55861bd54f9",
+        "parentUid" : "821be5e283b787401a5f60fbfa1ae002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673022500334,
+          "stop" : 1673022507824,
+          "duration" : 7490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "821be5e283b787401a5f60fbfa1ae002"
+    }, {
+      "name" : "13092@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginPageTitle",
+        "uid" : "b6cccd7b1ab7144a",
+        "parentUid" : "c5a654a6565169d6bad79f07530e01a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673016466741,
+          "stop" : 1673016474354,
+          "duration" : 7613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5a654a6565169d6bad79f07530e01a9"
+    }, {
+      "name" : "9672@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "TestHelpCenterPageTitle",
+        "uid" : "9fd0b3ea4adbd713",
+        "parentUid" : "433ca75111654fb61452a87ec3273eb0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673019699628,
+          "stop" : 1673019728108,
+          "duration" : 28480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginPageTitle",
+        "uid" : "adb5210874a6f636",
+        "parentUid" : "433ca75111654fb61452a87ec3273eb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673019689670,
+          "stop" : 1673019697478,
+          "duration" : 7808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "433ca75111654fb61452a87ec3273eb0"
+    }, {
+      "name" : "6300@arfoysal.TestNG-test=Test-1(12)",
+      "children" : [ {
+        "name" : "Testing help center page title",
+        "uid" : "dfc184785fc0f29f",
+        "parentUid" : "dd0420d7caadad5c268437e41924eda5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673020651511,
+          "stop" : 1673020680948,
+          "duration" : 29437
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd0420d7caadad5c268437e41924eda5"
+    }, {
+      "name" : "3832@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "Testing help center page title",
+        "uid" : "c1699d6014cbb33f",
+        "parentUid" : "bb51c36f1826d85fe6715784f23ac9a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673021026377,
+          "stop" : 1673021037894,
+          "duration" : 11517
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginPageTitle",
+        "uid" : "172dbc5e9cae2cef",
+        "parentUid" : "bb51c36f1826d85fe6715784f23ac9a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673021016540,
+          "stop" : 1673021024326,
+          "duration" : 7786
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bb51c36f1826d85fe6715784f23ac9a8"
+    }, {
+      "name" : "13420@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "TestHelpCenterPageTitle",
+        "uid" : "ccfde0924a462860",
+        "parentUid" : "924c5363abfe87bb603de651c89292eb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673018682113,
+          "stop" : 1673018710668,
+          "duration" : 28555
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginPageTitle",
+        "uid" : "51fb4a6a800096b7",
+        "parentUid" : "924c5363abfe87bb603de651c89292eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673018712732,
+          "stop" : 1673018720955,
+          "duration" : 8223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "924c5363abfe87bb603de651c89292eb"
+    }, {
+      "name" : "1488@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "loginPageTitle",
+        "uid" : "1e641d8c55d8dd22",
+        "parentUid" : "d1b700cef6bc71e0b87f01bca1e07088",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673018764384,
+          "stop" : 1673018772484,
+          "duration" : 8100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d1b700cef6bc71e0b87f01bca1e07088"
+    }, {
+      "name" : "32@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "Testing help center page title",
+        "uid" : "9cb24a26b0991910",
+        "parentUid" : "938d09b216249c750390c21838ec3bb2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673020903966,
+          "stop" : 1673020914726,
+          "duration" : 10760
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginPageTitle",
+        "uid" : "150e5f573c4902e9",
+        "parentUid" : "938d09b216249c750390c21838ec3bb2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1673020894320,
+          "stop" : 1673020901995,
+          "duration" : 7675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "938d09b216249c750390c21838ec3bb2"
+    }, {
+      "name" : "2352@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "TestHelpCenterPageTitle",
+        "uid" : "e688f8868c42d175",
+        "parentUid" : "0f4de1a9432f11dd6312bce8b8f737e0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673018920333,
+          "stop" : 1673018948487,
+          "duration" : 28154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f4de1a9432f11dd6312bce8b8f737e0"
+    }, {
+      "name" : "10988@arfoysal.TestNG-test=Test-1(12)",
+      "children" : [ {
+        "name" : "Testing help center page title",
+        "uid" : "f903d6d2128b4133",
+        "parentUid" : "21f02d816f0c17457a531ee42012e929",
+        "status" : "broken",
+        "time" : {
+          "start" : 1673020530319,
+          "stop" : 1673020560002,
+          "duration" : 29683
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "21f02d816f0c17457a531ee42012e929"
+    } ],
+    "uid" : "36cc7138fe5b8ff3d7780faedde3c42c"
+  } ]
+}

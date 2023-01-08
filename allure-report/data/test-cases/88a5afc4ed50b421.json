@@ -1,0 +1,105 @@
+{
+  "uid" : "88a5afc4ed50b421",
+  "name" : "loginTestwithInvalidCredential",
+  "fullName" : "testclasses.LoginTest.loginTestwithInvalidCredential",
+  "historyId" : "a8410443020ce3c84d1d9e2839b78e2d",
+  "time" : {
+    "start" : 1673022437893,
+    "stop" : 1673022446770,
+    "duration" : 8877
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1673022436620,
+      "stop" : 1673022437890,
+      "duration" : 1270
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1673022446773,
+      "stop" : 1673022447554,
+      "duration" : 781
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTestwithInvalidCredential"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "17932@arfoysal.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "0178999955"
+  }, {
+    "name" : "arg1",
+    "value" : "155555"
+  }, {
+    "name" : "arg2",
+    "value" : "Please enter a valid phone number."
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88a5afc4ed50b421.json",
+  "parameterValues" : [ "0178999955", "155555", "Please enter a valid phone number." ]
+}

@@ -1,0 +1,107 @@
+{
+  "uid" : "67b180970afe27f7",
+  "name" : "loginTestwithInvalidCredential",
+  "fullName" : "testclasses.LoginTest.loginTestwithInvalidCredential",
+  "historyId" : "ea2bc2ac7d501ac121e83ba9f081e707",
+  "time" : {
+    "start" : 1673021740935,
+    "stop" : 1673021750094,
+    "duration" : 9159
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1673021738200,
+      "stop" : 1673021740804,
+      "duration" : 2604
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1673021750100,
+      "stop" : 1673021750863,
+      "duration" : 763
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTestwithInvalidCredential"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "4908@arfoysal.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff3e295316b9c852",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".next\\-feedback\\-content\"}\n  (Session info: chrome=108.0.5359.125)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.4.0', revision: 'e5c75ed026a'\nSystem info: host: 'ARFOYSAL', ip: '192.168.31.204', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [5baf416d5e64bef02cfc87d6251e17aa, findElement {using=class name, value=next-feedback-content}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\AR_FOY~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:14493}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:14493/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 5baf416d5e64bef02cfc87d6251e17aa",
+      "time" : {
+        "start" : 1673021579044,
+        "stop" : 1673021587201,
+        "duration" : 8157
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67b180970afe27f7.json",
+  "parameterValues" : [ ]
+}

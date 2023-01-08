@@ -1,0 +1,51 @@
+[ {
+  "uid" : "67b180970afe27f7",
+  "name" : "loginTestwithInvalidCredential",
+  "time" : {
+    "start" : 1673021740935,
+    "stop" : 1673021750094,
+    "duration" : 9159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "456e693ca9d022e8",
+  "name" : "loginTestwithInvalidCredential",
+  "time" : {
+    "start" : 1673022520836,
+    "stop" : 1673022530360,
+    "duration" : 9524
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7e79d4e13dfe195",
+  "name" : "Testing help center page title",
+  "time" : {
+    "start" : 1673022532394,
+    "stop" : 1673022542386,
+    "duration" : 9992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f02b323ee3fd48c",
+  "name" : "loginTestwithInvalidCredential",
+  "time" : {
+    "start" : 1673022509893,
+    "stop" : 1673022518730,
+    "duration" : 8837
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a3f55861bd54f9",
+  "name" : "loginPageTitle",
+  "time" : {
+    "start" : 1673022500334,
+    "stop" : 1673022507824,
+    "duration" : 7490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

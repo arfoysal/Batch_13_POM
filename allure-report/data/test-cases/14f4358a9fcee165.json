@@ -1,0 +1,96 @@
+{
+  "uid" : "14f4358a9fcee165",
+  "name" : "loginPageTitle",
+  "fullName" : "testclasses.LoginTest.loginPageTitle",
+  "historyId" : "49ade629d9977b7fcfcd9c6eb54d7ae1",
+  "time" : {
+    "start" : 1673018526504,
+    "stop" : 1673018534891,
+    "duration" : 8387
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1673018523626,
+      "stop" : 1673018526351,
+      "duration" : 2725
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1673018534899,
+      "stop" : 1673018535647,
+      "duration" : 748
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginPageTitle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "6916@arfoysal.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14f4358a9fcee165.json",
+  "parameterValues" : [ ]
+}

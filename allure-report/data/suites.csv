@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 06 22:28:40 BDT 2023","Fri Jan 06 22:28:50 BDT 2023","9524","Suite","Test","testclasses.LoginTest","testclasses.LoginTest","loginTestwithInvalidCredential","loginTestwithInvalidCredential",""
+"passed","Fri Jan 06 22:28:29 BDT 2023","Fri Jan 06 22:28:38 BDT 2023","8837","Suite","Test","testclasses.LoginTest","testclasses.LoginTest","loginTestwithInvalidCredential","loginTestwithInvalidCredential",""
+"passed","Fri Jan 06 22:15:40 BDT 2023","Fri Jan 06 22:15:50 BDT 2023","9159","Default suite","Default test","testclasses.LoginTest","testclasses.LoginTest","loginTestwithInvalidCredential","loginTestwithInvalidCredential",""
+"passed","Fri Jan 06 22:28:52 BDT 2023","Fri Jan 06 22:29:02 BDT 2023","9992","Suite","Test","testclasses.HelpCenterTest","testclasses.HelpCenterTest","TestHelpCenterPageTitle","Testing help center page title","Testing help center page title--Allure"
+"passed","Fri Jan 06 22:28:20 BDT 2023","Fri Jan 06 22:28:27 BDT 2023","7490","Suite","Test","testclasses.LoginTest","testclasses.LoginTest","loginPageTitle","loginPageTitle",""

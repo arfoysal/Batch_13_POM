@@ -1,0 +1,118 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default suite",
+    "children" : [ {
+      "name" : "Default test",
+      "children" : [ {
+        "name" : "testclasses.LoginTest",
+        "children" : [ {
+          "name" : "loginTestwithInvalidCredential",
+          "uid" : "67b180970afe27f7",
+          "parentUid" : "09e8ed25d54d71f2d5faeeb09ac9985b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673021740935,
+            "stop" : 1673021750094,
+            "duration" : 9159
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "09e8ed25d54d71f2d5faeeb09ac9985b"
+      } ],
+      "uid" : "848117670d75f6868e681771989ad50e"
+    } ],
+    "uid" : "2c8837b97293ea01a164a5cd7048ad56"
+  }, {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "testclasses.LoginTest",
+        "children" : [ {
+          "name" : "loginPageTitle",
+          "uid" : "3a3f55861bd54f9",
+          "parentUid" : "14ef15100c7129685860b34e3d572563",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673022500334,
+            "stop" : 1673022507824,
+            "duration" : 7490
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 9,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "loginTestwithInvalidCredential",
+          "uid" : "1f02b323ee3fd48c",
+          "parentUid" : "14ef15100c7129685860b34e3d572563",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673022509893,
+            "stop" : 1673022518730,
+            "duration" : 8837
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : false,
+          "parameters" : [ "0118999955", "155555", "Please enter a valid phone number." ]
+        }, {
+          "name" : "loginTestwithInvalidCredential",
+          "uid" : "456e693ca9d022e8",
+          "parentUid" : "14ef15100c7129685860b34e3d572563",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673022520836,
+            "stop" : 1673022530360,
+            "duration" : 9524
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : false,
+          "parameters" : [ "0178999955", "155555", "Please enter a valid phone number." ]
+        } ],
+        "uid" : "14ef15100c7129685860b34e3d572563"
+      }, {
+        "name" : "testclasses.HelpCenterTest",
+        "children" : [ {
+          "name" : "Testing help center page title",
+          "uid" : "e7e79d4e13dfe195",
+          "parentUid" : "71875f3f2f1e905229fec78f0e685c7e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673022532394,
+            "stop" : 1673022542386,
+            "duration" : 9992
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 9,
+          "retriesStatusChange" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "71875f3f2f1e905229fec78f0e685c7e"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}
